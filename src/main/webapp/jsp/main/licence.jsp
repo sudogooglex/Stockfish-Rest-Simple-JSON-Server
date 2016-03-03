@@ -1,0 +1,1 @@
+<div id="licenceDiv">Licence : MIT, Author : ArnaudC</div>

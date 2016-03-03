@@ -1,0 +1,38 @@
+#mainTitleDiv {
+    text-align: center;
+}
+
+.mainContenair {
+    margin-top: 30px;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 20px;
+    border-radius: 15px 50px;
+    background: #444;
+    color: white;
+    font-size: 16px;
+}
+
+#licenceDiv {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+ /*unvisited link*/ 
+a:link {
+    color: lightblue;
+}
+ /*visited link*/ 
+a:visited {
+    color: lightblue;
+}
+/* mouse over link */
+a:hover {
+    color: lightblue;
+    text-decoration: none;
+}
+ /*selected link*/ 
+a:active {
+    color: lightblue;
+}

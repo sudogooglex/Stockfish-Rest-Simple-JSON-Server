@@ -1,0 +1,80 @@
+/*Text Area*/
+h1{
+    text-align: center;
+}
+input, textarea { 
+    padding: 9px; 
+    border: solid 1px #E5E5E5; 
+    outline: 0; 
+    font: normal 13px/100% Verdana, Tahoma, sans-serif; 
+    width: 200px; 
+    background: #FFFFFF; 
+}
+textarea { 
+    width: 90%;
+    height: 180px;
+    font-size: 18px;
+    line-height: 150%;
+} 
+input:hover, textarea:hover, 
+input:focus, textarea:focus { 
+    border-color: #C9C9C9; 
+} 
+.form label { 
+    margin-left: 10px; 
+    color: #999999; 
+}
+.submit input { 
+    width: auto; 
+    padding: 9px 15px; 
+    background: #617798; 
+    border: 0; 
+    font-size: 14px; 
+    color: #FFFFFF; 
+}
+pre{
+    background-color: #FFF; 
+}
+
+
+/*Curl*/
+.curlCode{
+    margin-top: 30px;
+    text-align: center;
+}
+
+.curlButtons {
+    padding:20px 0px 0px 0px;
+    text-align: center;
+}
+
+.curlResponseTable {
+    margin-top: 15px;
+    margin-left: 5%;
+    margin-right: 5%;
+    table-layout:fixed;
+}
+
+.curlResponseTable table {
+    margin-top: 10px;
+    table-layout: fixed;
+    width: 100%;
+}
+
+.curlResponseTable th, td {
+    overflow: hidden;
+    width: 100px;
+}
+
+
+/*Response*/
+.chronometerDiv{
+    font-size: 30px;
+    text-align: center;
+}
+#boardStateDiv {
+    line-height: 100%;
+}
+#errorStringRowDiv{
+    color:red;
+}
