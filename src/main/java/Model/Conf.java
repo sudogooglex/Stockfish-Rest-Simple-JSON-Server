@@ -3,9 +3,9 @@ package Model;
 public class Conf {
 
 // ---------------------------- ALWAYS CHANGE THIS --------------------------------
-    public static final String MAINDIRECTORY = "/home/a/Dropbox/Perso/1.Workspace/2.Web/1.Paris/StockfishRest/", // W: Can't auto detect
-            STOCKFISH6PATH = MAINDIRECTORY + "stockfish-6-linux/Linux/stockfish_6_x64_modern",
-            STOCKFISH7PATH = MAINDIRECTORY + "stockfish-7-linux/Linux/stockfish 7 x64",
+    public static final String MAINDIRECTORY = "/home/a/Dropbox/Perso/1.Workspace/2.Web/1.Paris/Stockfish-Rest-Simple-JSON-Server/", // W: Change this if needed !!!
+//            STOCKFISH6PATH = MAINDIRECTORY + "stockfish-6-linux/Linux/stockfish_6_x64_modern",
+            STOCKFISH7PATH = MAINDIRECTORY + "stockfish-7-linux/Linux/stockfish_7_x64",
             STOCKFISHPATH = STOCKFISH7PATH;
 // ---------------------------- GENERAL APP ---------------------------------------
     public static final String VERSION = "0.1",

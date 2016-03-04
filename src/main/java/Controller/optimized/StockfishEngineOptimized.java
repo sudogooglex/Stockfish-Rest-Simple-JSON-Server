@@ -38,7 +38,8 @@ public class StockfishEngineOptimized {
 
 // 1. Connect to engine
         String configStart = "Oops! Something went wrong ...\n";
-        if (startEngine()) {
+        boolean b= startEngine();
+        if (b) {
             configStart = inputBean.toString();
         }
         System.out.println("----------------------------------------------");
