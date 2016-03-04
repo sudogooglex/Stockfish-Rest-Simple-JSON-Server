@@ -4,6 +4,7 @@ Abaility to recieve Forsyth Edwards Notation and to send back the next best
 move and the score in 2 async REST JSON requests.
 (Path /home/a/GlassFish_Server/glassfish/domains/domain1/config)
 
+https://drive.google.com/open?id=0B08OYS7z8Q8JRVIxUm5kdmZuLUU
 
 ------------------ NEXT ------------------
 * Web
